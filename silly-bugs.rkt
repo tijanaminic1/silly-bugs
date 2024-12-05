@@ -8,7 +8,7 @@
 (define E-SCENE (empty-scene 1000 500))
 (define DEVY (square 20 'solid 'pink))
 (define BUG (circle 20 'solid 'forestgreen))
-
+ 
 
 ;; coord
 ;; structure that has x and y coordinates (integers)
